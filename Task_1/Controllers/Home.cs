@@ -11,5 +11,9 @@ namespace MvcApp
         {
             return View("Test");
         }
+        public IActionResult Test() 
+        {
+            return View("About.cshtml");
+        }
     } 
 }

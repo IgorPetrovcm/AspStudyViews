@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/admin/Общедоступные/WebBackend/AspStudyViews/Task_1
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/admin/Общедоступные/WebBackend/AspStudyViews/Task_1/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/admin/Общедоступные/WebBackend/AspStudyViews/Task_1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
