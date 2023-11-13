@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>WebAppRazor</title>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        <form method="post">
+            <label>Value 1: </label>
+            <input name="val1" type="number" /> <br/>
+            <label>Value 2:</label>
+            <input name="val2" type="number" /> <br/>
+            <input name="interaction" value="Addition" type="radio" />
+            <label>Addition</label> <br/>
+            <input name="interaction" value="Subtraction" type="radio" />
+            <label>Subtraction</label> <br/>
+            <input name="send" type="submit" value="Send" />
+        </form>
+        <p>@ViewData["Output"]</p>
+    </body>
+</html>
