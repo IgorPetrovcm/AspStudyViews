@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>NewViewstudy</title>        
+    </head>
+    <body>
+        <h2>@ViewBag.Title</h2>
+        <div> <a href="/Home/Index">Index</a> | <a href="/Home/About">About</a> </div>
+        <div>@RenderBody()</div>
+        <h3>Hello <footer>@RenderSection("Footer",false)</footer></h3>  
+        <p>Date time: <footer>@RenderSection("Footer2")</footer></p>      
+    </body>
+</html>
