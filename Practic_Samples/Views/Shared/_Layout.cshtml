@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Practice_Samples</title>
+    </head>
+    <body>
+        <p> <a href="/Home/Index">Index</a> |
+            <a href="/Home/Name">Name</a> |
+            <a href="/Home/Description">Description</a>
+        </p>
+        <h2>@ViewBag.Title</h2>
+        <p>Hello, this <footer>@RenderSection("Yourself")</footer></p>
+        <div>
+            @RenderBody()
+        </div>
+        <p>Also: <footer>@RenderSection("Also",false)</footer></p>
+    </body>
+</html>
