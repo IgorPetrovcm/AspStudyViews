@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/admin/Общедоступные/WebBackend/AspStudyViews/Practic_Samples2/Practic_Samples2.csproj": {}
+    "/home/admin/Общедоступные/WebBackend/AspStudyViews/General_Practic/Practic_Samples2.csproj": {}
   },
   "projects": {
-    "/home/admin/Общедоступные/WebBackend/AspStudyViews/Practic_Samples2/Practic_Samples2.csproj": {
+    "/home/admin/Общедоступные/WebBackend/AspStudyViews/General_Practic/Practic_Samples2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/admin/Общедоступные/WebBackend/AspStudyViews/Practic_Samples2/Practic_Samples2.csproj",
+        "projectUniqueName": "/home/admin/Общедоступные/WebBackend/AspStudyViews/General_Practic/Practic_Samples2.csproj",
         "projectName": "Practic_Samples2",
-        "projectPath": "/home/admin/Общедоступные/WebBackend/AspStudyViews/Practic_Samples2/Practic_Samples2.csproj",
+        "projectPath": "/home/admin/Общедоступные/WebBackend/AspStudyViews/General_Practic/Practic_Samples2.csproj",
         "packagesPath": "/home/admin/.nuget/packages/",
-        "outputPath": "/home/admin/Общедоступные/WebBackend/AspStudyViews/Practic_Samples2/obj/",
+        "outputPath": "/home/admin/Общедоступные/WebBackend/AspStudyViews/General_Practic/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/admin/.nuget/NuGet/NuGet.Config"

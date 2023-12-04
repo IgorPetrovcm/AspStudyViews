@@ -9,17 +9,25 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Practic_Samples2
 build_property.RootNamespace = Practic_Samples2
-build_property.ProjectDir = /home/admin/Общедоступные/WebBackend/AspStudyViews/Practic_Samples2/
+build_property.ProjectDir = /home/admin/Общедоступные/WebBackend/AspStudyViews/General_Practic/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/admin/Общедоступные/WebBackend/AspStudyViews/Practic_Samples2
+build_property.MSBuildProjectDirectory = /home/admin/Общедоступные/WebBackend/AspStudyViews/General_Practic
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/admin/Общедоступные/WebBackend/AspStudyViews/Practic_Samples2/Views/Shared/_Layout.cshtml]
+[/home/admin/Общедоступные/WebBackend/AspStudyViews/General_Practic/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/admin/Общедоступные/WebBackend/AspStudyViews/Practic_Samples2/Views/User/Index.cshtml]
+[/home/admin/Общедоступные/WebBackend/AspStudyViews/General_Practic/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/admin/Общедоступные/WebBackend/AspStudyViews/General_Practic/Views/User/OutputCollection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9PdXRwdXRDb2xsZWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/admin/Общедоступные/WebBackend/AspStudyViews/General_Practic/Views/User/OutputValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9PdXRwdXRWYWx1ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

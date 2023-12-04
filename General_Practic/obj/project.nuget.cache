@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CxfaJjq/KP4S5rTCJAoCnXYpYarq2dW8KVNun6H0zcCkcOcwbJ9mPxwM+RrmfpL5rVzwpz1thqvpVKYTIAq+rg==",
+  "dgSpecHash": "w9u+I0CjiP0ar+VQGDiD/Pa7TTKFBu+z0+CGB7X4X5RUUDLnRPmbQB9JjZ3YVRYJNbTV/N3V4K5gG2yTqnY0sQ==",
   "success": true,
-  "projectFilePath": "/home/admin/Общедоступные/WebBackend/AspStudyViews/Practic_Samples2/Practic_Samples2.csproj",
+  "projectFilePath": "/home/admin/Общедоступные/WebBackend/AspStudyViews/General_Practic/Practic_Samples2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

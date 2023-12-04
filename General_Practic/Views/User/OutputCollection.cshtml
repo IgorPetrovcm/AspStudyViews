@@ -1,0 +1,11 @@
+@using ModelsApp.Models;
+@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Output Collection";
+}
+@model IEnumerable<User>
+<p align="center"> 
+    @foreach (var a in Model) {
+        <p align="center">@a.name - @a.age</p>
+    }
+</p>
