@@ -4,11 +4,13 @@ namespace MvcApp;
 public class UserController : Controller 
 {
     public IActionResult Index() => View(); 
-    public IActionResult OutputValue() 
+
+    [HttpGet]
+    public IActionResult OutputValue(int a) 
     {
-        int output = 230;
-        return View(output);
-    } 
+        if (a == 0) return View(230);
+        return View(a);
+    }
     public IActionResult OutputCollection() 
     {
         int[] arr = {1,2,3,4,5,6,7,8,9};
@@ -18,5 +20,9 @@ public class UserController : Controller
             new User("Maks",28)
         };
         return View(users);
+    }
+    public IActionResult Calculate(int a, int b) 
+    {
+        return View(a+b);
     }
 }
