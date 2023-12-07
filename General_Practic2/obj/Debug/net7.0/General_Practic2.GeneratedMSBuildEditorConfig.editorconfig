@@ -1,0 +1,33 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = General_Practic2
+build_property.RootNamespace = General_Practic2
+build_property.ProjectDir = /home/admin/General/WebBackend/AspStudyViews/General_Practic2/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/admin/General/WebBackend/AspStudyViews/General_Practic2
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/admin/General/WebBackend/AspStudyViews/General_Practic2/Views/Shared/_Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/admin/General/WebBackend/AspStudyViews/General_Practic2/Views/Shared/_Storage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TdG9yYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/admin/General/WebBackend/AspStudyViews/General_Practic2/Views/User/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9BZGRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/admin/General/WebBackend/AspStudyViews/General_Practic2/Views/User/UserStorage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Vc2VyU3RvcmFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
