@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Models;
 namespace MvcApp;
-class UserController : Controller 
+public class UserController : Controller 
 {
     public PersonStorage persons;
     public UserController(PersonStorage persons) => this.persons = persons;

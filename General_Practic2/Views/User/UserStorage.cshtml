@@ -1,0 +1,12 @@
+@{
+    Layout = "/Views/Shared/_Storage.cshtml";
+    ViewBag.Title = "User storage";
+}
+@using Models
+@model IList<Person>
+<p>
+    @foreach (var item in Model) 
+    {
+        <p>@item.name - @item.age</p>
+    }
+</p>
