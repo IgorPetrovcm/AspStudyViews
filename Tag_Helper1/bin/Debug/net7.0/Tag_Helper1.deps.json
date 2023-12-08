@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tag_Helper1/1.0.0": {
+        "runtime": {
+          "Tag_Helper1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tag_Helper1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
