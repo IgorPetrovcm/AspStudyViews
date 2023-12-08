@@ -1,0 +1,20 @@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Task_6</title>
+        <link rel="stylesheet" href="/Views/Home/index.css" />
+    </head>
+    <body>
+        <h2 class="title">@ViewBag.Title</h2>
+        
+        <div class="container">
+            <form method="post">
+                @RenderBody()
+            </form>
+        </div>
+        
+        @RenderBody()
+    </body>
+</html>
