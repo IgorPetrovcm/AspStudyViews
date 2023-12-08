@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/admin/General/WebBackend/AspStudyViews/Task_6/wwwroot/css/index.css",
+      "PackagePath": "staticwebassets/css/index.css"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Task_6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Task_6.props",
+      "PackagePath": "build\\Task_6.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Task_6.props",
+      "PackagePath": "buildMultiTargeting\\Task_6.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Task_6.props",
+      "PackagePath": "buildTransitive\\Task_6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

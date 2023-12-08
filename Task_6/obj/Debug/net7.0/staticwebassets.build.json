@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "RUk69sn4IkUF6fCrLYBtQkudpbqjOyZcYo+YhW/fYsw=",
+  "Hash": "TWeFarZ7b/CBxqQIW9sRr6D09Hh+aTJ/S3PsDFj8460=",
   "Source": "Task_6",
   "BasePath": "_content/Task_6",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Task_6/wwwroot",
+      "Source": "Task_6",
+      "ContentRoot": "/home/admin/General/WebBackend/AspStudyViews/Task_6/wwwroot/",
+      "BasePath": "_content/Task_6",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/admin/General/WebBackend/AspStudyViews/Task_6/wwwroot/css/index.css",
+      "SourceId": "Task_6",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/admin/General/WebBackend/AspStudyViews/Task_6/wwwroot/",
+      "BasePath": "_content/Task_6",
+      "RelativePath": "css/index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/index.css"
+    }
+  ]
 }
