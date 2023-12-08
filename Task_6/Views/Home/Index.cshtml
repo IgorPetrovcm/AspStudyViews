@@ -2,10 +2,17 @@
     Layout = "/Views/Shared/_Authorization.cshtml";
     ViewBag.Title = "Authorization";
 }
+@model AppModels.User
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
 <label>@ViewBag.Message</label><br/>
-<label>Login:</label> <br/>
-<input name="login" type="text"/> <br/>
-<label>Pin-code</label> <br/>
-<input name="pin_code" type="number" /> <br />
+<label asp-for="login">Login:</label> <br/>
+<input asp-for="login" type="text"/> 
+<span asp-validation-for="login" /> <br />
+<label asp-for="pin_code">Pin-code</label> <br/>
+<input asp-for="pin_code" type="number" /> 
+<span asp-validation-for="pin_code" /> <br />
+<label asp-for="email">Email:</label> <br />
+<input asp-for="email" type="text" />
+<span asp-validation-for="email" /> <br />
 <input name="send" type="submit" value="Send" /> 
