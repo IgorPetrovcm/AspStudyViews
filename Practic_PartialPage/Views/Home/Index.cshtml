@@ -1,0 +1,18 @@
+<h2>Hello User</h2>
+<form method="post">
+    <label for="pagesLabel">Pages:</label>
+    <input type="text" name="page" id="pagesLabel" list="Pages" />
+    <datalist id="Pages">
+        <option>Meet</option>
+        <option>Walls</option>
+    </datalist> <br /> 
+    <input type="submit" value="Send" />
+</form>
+
+@{
+    string page = ViewBag.Message;
+}
+@if (page != null) 
+{
+@await Html.PartialAsync(page)
+}
