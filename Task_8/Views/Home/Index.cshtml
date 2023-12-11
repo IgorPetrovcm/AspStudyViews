@@ -1,0 +1,7 @@
+<h1>Hello user</h1>
+<h2>@ViewBag.Message</h2>
+@{
+    string response = ViewBag.Message;
+}
+@await Html.PartialAsync(response,new List<string>() {"vlad","vlad2","vlad3"});
+
