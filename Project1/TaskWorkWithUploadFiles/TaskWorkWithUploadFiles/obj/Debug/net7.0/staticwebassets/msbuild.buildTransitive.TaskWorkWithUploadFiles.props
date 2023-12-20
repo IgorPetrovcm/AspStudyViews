@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/TaskWorkWithUploadFiles.props" />
+</Project>
